@@ -1,4 +1,4 @@
-# IS324-Lab-3-Program-2
+# update-dict-marks
 
 Write a function called update_dict(dict,subj) that will update the dictionary based on the
 selected subject by 5 marks for all values for that subject
